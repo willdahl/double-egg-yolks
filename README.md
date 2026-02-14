@@ -1,4 +1,4 @@
-# DEY - Double Egg Yolks!
+# Double Egg Yolks!
 
 **Exploring OpenClaw's Multi-Agent Architecture for Creative Iteration**
 
